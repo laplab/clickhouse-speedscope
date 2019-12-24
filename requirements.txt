@@ -1,0 +1,4 @@
+aiohttp[speedups]
+aiohttp_cors
+clickhouse-driver
+aioch
